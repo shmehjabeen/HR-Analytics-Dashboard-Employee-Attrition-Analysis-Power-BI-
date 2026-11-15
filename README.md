@@ -28,7 +28,7 @@ https://github.com/shmehjabeen/HR-Analytics-Dashboard-Employee-Attrition-Analysi
 
 ## 🎥 Dashboard Demo
 
-▶️ [Watch the project walkthrough video]([https://github.com/shmehjabeen/HR-Analytics-Dashboard-Employee-Attrition-Analysis-Power-BI-/blob/main/20261115062623.mp4])
+▶️ [Watch the project walkthrough video](https://github.com/shmehjabeen/HR-Analytics-Dashboard-Employee-Attrition-Analysis-Power-BI-/blob/main/20261115062623.mp4)
 
 🔗 **LinkedIn Project Link: [Paste Link]**
 
