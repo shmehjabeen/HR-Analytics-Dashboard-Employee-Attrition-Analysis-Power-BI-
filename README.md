@@ -13,6 +13,21 @@ Employee attrition drives up hiring and training costs and disrupts teams. This 
 **Goal:** Identify the key drivers and high-risk segments of attrition and turn them into actionable retention recommendations.
  
 ---
+
+View Dashboard</a>
+
+- <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.ipynb">View Dashboard</a>
+<img width="1347" height="734" alt="Retail and wherehouse Sales" src="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail%20and%20wherehouse%20Sale.jpg" />
+
+
+
+ - <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.pdf">View Python File</a>
+
+## Project files
+
+- <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.ipynb">Python Notebook</a> — Retail_Sales_Data_Analysis.ipynb - complete analysis notebook.
+- <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail%20and%20wherehouse%20Sale.csv">Dataset</a> — Retail and wherehouse Sale.csv - source dataset (30,000 rows).
+- <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.pdf">Python Notebook PDF</a> — Retail _Sales_Data_Analysis.pdf - generated workbook, created when the notebook is run.
  
 ## 📈 Dashboard KPIs
  
