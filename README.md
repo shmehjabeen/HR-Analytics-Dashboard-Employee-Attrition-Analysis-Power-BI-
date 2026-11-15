@@ -16,7 +16,7 @@ Employee attrition drives up hiring and training costs and disrupts teams. This 
 
 View Dashboard</a>
 
-- <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.ipynb">View Dashboard</a>
+- <a href="https://github.com/shmehjabeen/HR-Analytics-Dashboard-Employee-Attrition-Analysis-Power-BI-/blob/main/HR_Project_Power%20BI.pbix">View Dashboard</a>
 <img width="1347" height="734" alt="Retail and wherehouse Sales" src="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail%20and%20wherehouse%20Sale.jpg" />
 
 
