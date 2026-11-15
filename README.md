@@ -23,7 +23,7 @@ View Dashboard</a>
 
 
 
- - <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.pdf">View Python File</a>
+ - <a href="https://github.com/shmehjabeen/HR-Analytics-Dashboard-Employee-Attrition-Analysis-Power-BI-/blob/main/HR_Project_Power_BI%20Final.pdf">View Power BI File</a>
 
 ## Project files
 
