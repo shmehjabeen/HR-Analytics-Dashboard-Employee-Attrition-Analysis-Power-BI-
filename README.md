@@ -22,15 +22,11 @@ View Dashboard</a>
 
 
 
-## 🎥 Dashboard Demo
-
-https://github.com/shmehjabeen/HR-Analytics-Dashboard-Employee-Attrition-Analysis-Power-BI-/blob/main/20261115062623.mp4
 
 ## 🎥 Dashboard Demo
 
 ▶️ [Watch the project walkthrough video](https://github.com/shmehjabeen/HR-Analytics-Dashboard-Employee-Attrition-Analysis-Power-BI-/blob/main/20261115062623.mp4)
 
-🔗 **LinkedIn Project Link: [Paste Link]**
 
 
  - <a href="https://github.com/shmehjabeen/HR-Analytics-Dashboard-Employee-Attrition-Analysis-Power-BI-/blob/main/HR_Project_Power_BI%20Final.pdf">View Power BI File</a>
