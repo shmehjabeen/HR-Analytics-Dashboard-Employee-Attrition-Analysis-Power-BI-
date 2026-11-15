@@ -20,7 +20,7 @@ View Dashboard</a>
 
 <img width="1385" height="778" alt="HR_Project_Power BI" src="https://github.com/user-attachments/assets/6e65e410-d38a-4060-a880-afd7f185ce53" />
 
-<img width="1385" height="778" alt="HR_Project_Power BI" src=""C:\Users\Mehjabeen Shaikh\Desktop\Mehjabeen\Personal\Mehjabeen Documents\Data Science - IIM Skills\4. Power Bi\Project\20261115062623.mp4"" />
+<mp4 width="1385" height="778" alt="HR_Project_Power BI" src="https://github.com/shmehjabeen/HR-Analytics-Dashboard-Employee-Attrition-Analysis-Power-BI-/blob/main/20261115062623.mp4" />
 
 
  - <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.pdf">View Python File</a>
