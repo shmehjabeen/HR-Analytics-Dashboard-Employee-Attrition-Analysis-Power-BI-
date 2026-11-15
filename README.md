@@ -17,7 +17,7 @@ Employee attrition drives up hiring and training costs and disrupts teams. This 
 View Dashboard</a>
 
 - <a href="https://github.com/shmehjabeen/HR-Analytics-Dashboard-Employee-Attrition-Analysis-Power-BI-/blob/main/HR_Project_Power%20BI.pbix">View Dashboard</a>
-<mp4 width="1347" height="734" alt="Retail and wherehouse Sales" src="https://github.com/shmehjabeen/HR-Analytics-Dashboard-Employee-Attrition-Analysis-Power-BI-/blob/main/20261115062623.mp4" />
+<mp4 width="1347" height="734" alt="HR Analytics Dashboard Employee" src="https://github.com/shmehjabeen/HR-Analytics-Dashboard-Employee-Attrition-Analysis-Power-BI-/blob/main/20261115062623.mp4" />
 
 
 
