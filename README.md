@@ -30,7 +30,7 @@ View Dashboard</a>
 ## Project files
 
 - <a href="https://github.com/shmehjabeen/HR-Analytics-Dashboard-Employee-Attrition-Analysis-Power-BI-/blob/main/HR_Project_Power%20BI.pbix">Power BI Notebook</a> — HR Analytics Dashboard Employee Attrition.pbix - complete analysis notebook.
-- <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail%20and%20wherehouse%20Sale.csv">Dataset</a> — HR Analytics Dashboard Employee Attrition.csv - source dataset (30,000 rows).
+- <a href="https://github.com/shmehjabeen/HR-Analytics-Dashboard-Employee-Attrition-Analysis-Power-BI-/blob/main/HR_Project_Power%20BI.csv">Dataset</a> — HR Analytics Dashboard Employee Attrition.csv - source dataset (30,000 rows).
 - <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.pdf">Python Notebook PDF</a> — HR Analytics Dashboard Employee Attrition.pdf - generated workbook, created when the notebook is run.
  
 ## 📈 Dashboard KPIs
