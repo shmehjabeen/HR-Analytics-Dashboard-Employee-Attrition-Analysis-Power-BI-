@@ -2,7 +2,7 @@
  
 > An interactive **Power BI** dashboard that reveals who is leaving, when, and which segments are at risk, so HR teams can act on retention before talent walks out.
  
-**LinkedIn Project Link: [Paste Link]**
+**LinkedIn Project Link: (https://www.linkedin.com/feed/update/urn:li:activity:7527812116272132096/)**
  
 ---
  
@@ -118,7 +118,7 @@ Key fields used: `Age`, `AgeGroup`, `Attrition`, `Department`, `EducationField`,
  
 Open to **Data Analyst / Data Science** opportunities. Feedback is welcome, and a ⭐ on the repo is appreciated!
  
-- **LinkedIn Project Link: [Paste Link]**
-- **Name:** [Mehjabeen Shaikh]
-- **Email:** [sh.mehjabeen@gmail.com]
+- **LinkedIn Project Link: (https://www.linkedin.com/feed/update/urn:li:activity:7527812116272132096/)**
+- **Name:** Mehjabeen Shaikh
+- **Email:** sh.mehjabeen@gmail.com
  
