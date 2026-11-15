@@ -119,6 +119,6 @@ Key fields used: `Age`, `AgeGroup`, `Attrition`, `Department`, `EducationField`,
 Open to **Data Analyst / Data Science** opportunities. Feedback is welcome, and a ⭐ on the repo is appreciated!
  
 - **LinkedIn Project Link: [Paste Link]**
-- **Name:** [Your Name]
-- **Email:** [Your Email]
+- **Name:** [Mehjabeen Shaikh]
+- **Email:** [sh.mehjabeen@gmail.com]
  
